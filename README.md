@@ -115,11 +115,6 @@ POLYGON_API_KEY=your_api_key_here
 
 ---
 
-## 📸 Screenshot
-
-*Add a screenshot of the app UI here*
-
----
 
 ## 📌 Disclaimer
 
