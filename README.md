@@ -131,7 +131,7 @@ This application does **not** provide real financial advice. Use at your own ris
 
 **Ahmed Salah**
 
-* GitHub: [https://github.com/your-username](https://github.com/your-username)
+* GitHub: [https://github.com/bubecode](https://github.com/bubecode)
 
 ---
 
